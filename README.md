@@ -12,7 +12,7 @@ Matriculation number: 5031286
 
 Bachelor in Business Information Systems
 
-5. Semester
+6. Semester
 
 Supervisor: Mr. Felix Spühler
 
